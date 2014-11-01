@@ -2,13 +2,6 @@
 
 ## Description
 
-**TODO:** Fill in this part with information about your work this week:
-important design decisions, changes to previous decisions, open questions,
-exciting milestones, preliminary results, etc. Feel free to include images
-(e.g., a sketch of the design or a screenshot of a running program), links to
-code, and any other resources that you think will help clearly convey your
-design process.
-
 This week was spent largely refining my project idea. I initially was focused
 on writing my own graphing tool. Now I am leaning more toward using an existing
 graphing tool and just making piece-wise graphs easier and more intuitive.
