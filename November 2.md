@@ -9,6 +9,14 @@ graphing tool and just making piece-wise graphs easier and more intuitive.
 I plan to use Grapher and its incomplete piece-wise graphing and other
 capabilties to make a full piece-wise graphing tool.  
 
+Some of the graphing tools I looked at were Grapher, Mathematica, Matlab, 
+and the basic graphing possible in Excel. I found that, although it is possible
+to create a complete piecewise graph, it requires multiple steps and is not
+intuitive (I had to look at tutorials to figure it out).
+
+My goal is to use a syntax that translates more closely from math to produce
+the graphs.
+
 ## Questions
 
 **What is the most pressing issue for your project? What design decision do
@@ -25,11 +33,14 @@ you?**
 
 What would be your ideal input for graphing piecewise functions?
 
+What features would you want beyond piecewise and simple 2D graphs?
+
 **How much time did you spend on the project this week? If you're working in a
 team, how did you share the labor?**
 
 I spent about 1 hour brainstorming ideas, 2 hours researching existing
-programs, and 1 hour on write-up. I have worked on my own.
+programs, 1 hour discussing ideas with others in the class, and 1 hour on 
+write-up. I have worked on my own.
 
 ## Post-critique summary
 
