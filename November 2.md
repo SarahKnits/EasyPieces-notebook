@@ -44,4 +44,20 @@ write-up. I have worked on my own.
 
 ## Post-critique summary
 
+Alex emphasized the importance of finding a good graphing software to cut down
+on the amount of coding I have to do. He also suggested that I stick with the
+piecewise functions and simple 2D functions initially and then expand after 
+that if there is still time. He also suggested variables to hold reusable
+code fragments. 
+
 ## Post-critique reflection
+
+I like the idea of using variables to store reusable code fragments to prevent
+the user having to retype a piece over and over. 
+
+I know that the graphing API will be the most important decision to make, as it
+will define what will be possible and easy to implement in my language. I also
+recognize that the design decisions are otherwise somewhat limited, and that I
+may need to expand my scope to include more creativity and designing.
+
+ 
