@@ -2,13 +2,6 @@
 
 ## Description
 
-**TODO:** Fill in this part with information about your work this week:
-important design decisions, changes to previous decisions, open questions,
-exciting milestones, preliminary results, etc. Feel free to include images
-(e.g., a sketch of the design or a screenshot of a running program), links to
-code, and any other resources that you think will help clearly convey your
-design process.
-
 I've spent time this week fleshing out what my preliminary input syntax will
 be, along with testing out the output. At present, I will be copying the output
 into Mac's Grapher application, but I am working on figuring out a better and
@@ -22,6 +15,16 @@ such as division by 0.
 
 For a clearer idea of my preliminary grammar, check out sampleInputs.txt in the
 project directory. 
+
+**Checking in with my goals**
+
+Week 2: I will have the IR for my MVP defined and a basic input (even if it is not the final one I use). I will also have a first idea for the output.
+
+By this week, I expected to have the IR defined along with a basic input.
+Both of these have been defined and can be found in my project files.
+I am questioning whether Grapher for Mac is the best option, but I am
+basing my preliminary design on the idea that the output will be for 
+Grapher.
 
 ## Questions
 
