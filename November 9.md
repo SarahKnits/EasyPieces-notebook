@@ -37,6 +37,18 @@ gnuplot.
 ### Pros and Cons of Different Graphing Tools
 #### gnuplot
 ##### Pros 
+* Complete flexibility - I can make the graph look however I want
+##### Cons
+* More complicated output
+* More needs to be defined by the user or calculated using logic
+
+#### Grapher for Mac
+##### Pros
+* Very easy to graph - Just copy the text in
+##### Cons
+* Less flexible
+* Requires more effort from the user
+
 
 **What questions do you have for your critique partners? How can they best help
 you?**
@@ -48,9 +60,10 @@ suggestions for which program I should use for the final graphs.
 team, how did you share the labor?**
 
 I spent 3 hours defining my preliminary grammar and coding out the parser for
-it, 2 hours researching possible programs to use for the final output, and 1
-hour completing the critique for my partner. 
-
+it, 2 hours researching possible programs to use for the final output, 1 hour 
+working on the notebook and documentation, and 1 hour completing the critique 
+for my partner. 
+ 
 ## Post-critique summary
 
 Alex emphasized the importance of finding a good graphing software to cut down
