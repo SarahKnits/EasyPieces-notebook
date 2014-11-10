@@ -41,6 +41,7 @@ gnuplot.
 #### gnuplot
 ##### Pros 
 * Complete flexibility - I can make the graph look however I want
+
 ##### Cons
 * More complicated output
 * More needs to be defined by the user or calculated using logic
@@ -48,6 +49,7 @@ gnuplot.
 #### Grapher for Mac
 ##### Pros
 * Very easy to graph - Just copy the text in
+
 ##### Cons
 * Less flexible
 * Requires more effort from the user
