@@ -65,7 +65,7 @@ suggestions for which program I should use for the final graphs.
 team, how did you share the labor?**
 
 I spent 3 hours defining my preliminary grammar and coding out the parser for
-it, 2 hours researching possible programs to use for the final output, 1 hour 
+it, 2 hours researching possible programs to use for the final output, 1.5 hours
 working on the notebook and documentation, and 1 hour completing the critique 
 for my partner. 
  
