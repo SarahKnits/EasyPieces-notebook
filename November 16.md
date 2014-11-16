@@ -66,4 +66,26 @@ implementation file,
 
 ## Post-critique summary
 
+Alex commented that he would have preferred the function specification to be
+more explicit rather than using otherwise. 
+Alex also suggested two possible paths for the project moving forward: expanding
+the language to handle more complicated functions or making the user interface
+as fabulous as possible. 
+The last recommendation was to use Grapher instead of GNUPlot. 
+
 ## Post-critique reflection
+For the explicit function specification, my decision to use otherwise was
+trying to best match the format of given assignments, so I will stick with my 
+original decision on that part. 
+
+For future development, I will spend most of my time expanding the language to 
+handle more complicated functions (probably still 2D for now) with at least a 
+little bit of time spent on optimizing the user input. I hope to be able to 
+handle the vast majority of functions anyone would need to graph properly. 
+
+After my research and reflection this week, I don't think it will be possible to
+use Grapher. What I meant by having difficulty formatting the input is that I
+would output a text file that the user would then have to manually copy line by
+line into Grapher which seems a suboptimal user experience. ScalaPlot, the
+program I have decided to use for graphing, is a Scala interface for GNUPlot.
+
