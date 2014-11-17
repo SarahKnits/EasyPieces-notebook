@@ -45,7 +45,8 @@ downloading any of the graphing tools. I want to make sure that everything is
 properly included in the build.sbt file.
 
 Also, does the sample graph output (see below) look like you would want the 
-piecewise graph to look? What else might you want to add?
+piecewise graph to look? What else might you want to add? The code for this
+graph can be found in GraphDemo.scala.
 
 ![Program 2 Graph](https://github.com/SarahKnits/project/blob/November16/piecewiseGrapher/docs/img/SecondProgram.png)
 
@@ -62,7 +63,7 @@ team, how did you share the labor?**
 I spent two hours working on the input, two hours researching different graphing
 tools to use, two hours figuring out what the code for the graphing output
 would need to look like, two hours thinking about and considering the design and
-implementation file, 
+implementation file, and about an hour on the notebook entry. 
 
 ## Post-critique summary
 
