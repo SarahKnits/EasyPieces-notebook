@@ -36,6 +36,7 @@ issues are as follows:
 * Better error messages
 * Other functions
 * Order of operations
+* Doubles instead of just integers
 
 I plan to prioritize error checking and error messages for this coming week. I
 will then work on improving the input and adding additional functions that may
