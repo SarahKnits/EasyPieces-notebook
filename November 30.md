@@ -34,6 +34,10 @@ of the remaining items.
 **What questions do you have for your critique partners? How can they best help
 you?**
 
+At this point, I've mostly solidified my design and what I need to do to 
+complete this project. I would like feedback on what errors messages should say
+to be most understandable to people without a CS background. 
+
 **How much time did you spend on the project this week? If you're working in a
 team, how did you share the labor?**
 
@@ -47,3 +51,5 @@ outside of class completing my logo, one hour expanding my language.
 I did not receive feedback this week.
 
 ## Post-critique reflection
+
+No feedback
