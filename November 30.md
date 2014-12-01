@@ -44,7 +44,10 @@ team, how did you share the labor?**
 I spent two and a half hours brainstorming for and writing the Preliminary 
 Evaluation, one hour testing the program with users of various backgrounds and
 evaluating their responses, one hour writing the design notebook, a half hour
-outside of class completing my logo, one hour expanding my language. 
+outside of class completing my logo, two hours expanding my language, and half
+an hour updating examples and the tutorial. I also spent an hour in class
+dicussing my project and working on the code and one hour working on the logo in
+class. 
 
 ## Post-critique summary
 
